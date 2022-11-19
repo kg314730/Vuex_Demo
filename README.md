@@ -1,3 +1,4 @@
+#Code reference for vuex (following net ninja's youtube tutorial)
 # vue_ex
 
 ## Project setup
